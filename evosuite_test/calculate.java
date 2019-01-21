@@ -10,4 +10,10 @@ public class calculate{
 
         return answer;
     }
+
+    public static int multiplication(int x, int y){
+        int answer = x * y;
+
+        return answer;
+    }
 }
