@@ -9,6 +9,6 @@ public class Main{
 	    
         System.out.println("5 + 2 = " + addAnswer);
         System.out.println("5 - 2 = " + subAnswer);
-	System.out.println("5 - 2 = " + mulAnswer);
+	System.out.println("5 * 2 = " + mulAnswer);
     }
 }
